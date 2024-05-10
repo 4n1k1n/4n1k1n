@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/git-1D334A?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<h2  align="center">Курсы</h2>
+<h2  align="center">Сертификаты курсов</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/karpov.courses-4A90E2?style=for-the-badge"/>
   <a href="https://lab.karpov.courses/certificate/ae6ec04d-16f1-41f5-a393-a6f0dcb99ad8/"><img src="https://img.shields.io/badge/Аналитик_данных-1D334A?style=for-the-badge" alt="Аналитик данных karpov.courses""></a>
