@@ -44,7 +44,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/karpov.courses-4A90E2?style=for-the-badge"/>
   <a href="https://lab.karpov.courses/certificate/ae6ec04d-16f1-41f5-a393-a6f0dcb99ad8/"><img src="https://img.shields.io/badge/Аналитик_данных-1D334A?style=for-the-badge" alt="Аналитик данных karpov.courses""></a>
-  <img src="https://img.shields.io/badge/Симулятор_аналитика-1D334A?style=for-the-badge" alt="Аналитик данных karpov.courses"">
+  <a href="https://lab.karpov.courses/certificate/e4c9458a-9933-4fc8-b2fa-370f14c50581/"><img src="https://img.shields.io/badge/Симулятор_аналитика-1D334A?style=for-the-badge" alt="Аналитик данных karpov.courses""></a>
   <a href="https://lab.karpov.courses/certificate/9f00a81f-a5c7-45bc-90ba-6ede9c039e60/"><img src="https://img.shields.io/badge/Симулятор_SQL-1D334A?style=for-the-badge" alt="Аналитик данных karpov.courses""></a>
 </div>
 
