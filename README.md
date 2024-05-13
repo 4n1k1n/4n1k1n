@@ -29,6 +29,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Tableau-1D334A?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Superset-1D334A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redash-1D334A?style=for-the-badge&logo=redash&logoColor=white"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Прочее-4A90E2?style=for-the-badge"/>
@@ -36,7 +37,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Airflow-1D334A?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-1D334A?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redash-1D334A?style=for-the-badge&logo=redash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-1D334A?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-1D334A?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
