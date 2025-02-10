@@ -68,6 +68,11 @@
 
 <h2  align="center">Сертификаты курсов</h2>
 <div align="center">
+  <img src="https://img.shields.io/badge/No%20Data%20No%20Growth%20%7C%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%91%D1%83%D1%85%D1%82%D0%B8%D0%BA-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%D0%90%2F%D0%91%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7-1D334A?style=for-the-badge" alt="А/Б тестирование и проверка гипотез"">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/karpov.courses-4A90E2?style=for-the-badge"/>
   <a href="https://lab.karpov.courses/certificate/ae6ec04d-16f1-41f5-a393-a6f0dcb99ad8/"><img src="https://img.shields.io/badge/Аналитик_данных-1D334A?style=for-the-badge" alt="Аналитик данных karpov.courses""></a>
   <a href="https://lab.karpov.courses/certificate/e4c9458a-9933-4fc8-b2fa-370f14c50581/"><img src="https://img.shields.io/badge/Симулятор_аналитика-1D334A?style=for-the-badge" alt="Аналитик данных karpov.courses""></a>
